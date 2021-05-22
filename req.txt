@@ -1,0 +1,8 @@
+You are to implement an interactive application with easy to use GUI which allows you to
+perform the following task:
+Draw a polygon (regular and irregular) of any shape using
+Java Polygons or equivalent
+a. The ability to change the line color of the polygon.
+b. The ability to fill the polygon with a color
+c. Allow user to input the number of sides for drawing the polygon
+my polygons are drawn but can't add the colors
